@@ -354,3 +354,6 @@ MigrationBackup/
 
 # access token file
 access_token.yml
+
+# azure subscription
+subscription.yaml
